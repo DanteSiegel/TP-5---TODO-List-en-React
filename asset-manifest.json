@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DanteSiegel/TP-5---TODO-List-en-React.git/static/css/main.f855e6bc.css",
+    "main.js": "/DanteSiegel/TP-5---TODO-List-en-React.git/static/js/main.0d478ad3.js",
+    "static/js/453.37753ddd.chunk.js": "/DanteSiegel/TP-5---TODO-List-en-React.git/static/js/453.37753ddd.chunk.js",
+    "index.html": "/DanteSiegel/TP-5---TODO-List-en-React.git/index.html",
+    "main.f855e6bc.css.map": "/DanteSiegel/TP-5---TODO-List-en-React.git/static/css/main.f855e6bc.css.map",
+    "main.0d478ad3.js.map": "/DanteSiegel/TP-5---TODO-List-en-React.git/static/js/main.0d478ad3.js.map",
+    "453.37753ddd.chunk.js.map": "/DanteSiegel/TP-5---TODO-List-en-React.git/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0d478ad3.js"
+  ]
+}
